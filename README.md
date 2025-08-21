@@ -22,16 +22,20 @@ A modern, responsive portfolio website built with React.js to showcase my projec
 ## ⚙️ Installation & Setup
 undefined
 1. Clone the repository
-   ```git clone https://github.com/yogendradawar/portfolio.git```
+   ```bash
+   git clone https://github.com/yogendradawar/portfolio.git
 2. Navigate to project directory
-   ```cd portfolio```
+   ```bash
+   cd portfolio
 3. Install dependencies
-   ```npm install```
+   ```bash
+   npm install
 4. Start the development server
-    ```npm start```
+   ```bash
+    npm start
 
    
-5. Open your browser and visit `http://localhost:3000`
+8. Open your browser and visit `http://localhost:3000`
 
 ## 🌐 Deployment
 This project is deployed on Vercel. To deploy your own version:
